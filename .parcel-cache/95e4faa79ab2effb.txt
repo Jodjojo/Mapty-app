@@ -1,4 +1,4 @@
-4285
+4283
 121C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\css-tree\dist\csstree.js133256924636882245 0
 135C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\type-fest\source\conditional-keys.d.ts133256924630629152 0
 137C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\@parcel\utils\src\dependency-location.js133256924633462213 0
@@ -38,7 +38,7 @@
 121C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\abortcontroller-polyfill133256924632231196 1
 131C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\@parcel\events\src\ValueEmitter.js133256924631479856 0
 145C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\css-select\lib\pseudo-selectors\filters.d.ts.map133256924633301776 0
-88C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist133260376369085733 1
+88C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist133260375671599346 1
 134C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133256924636552981 0
 132C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\caniuse-lite\data\features\webxr.js133256924649536492 0
 103C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\@types133256924611507031 1
@@ -1318,7 +1318,7 @@
 188C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-false-glob\sub\index.json133256924639060832 0
 114C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\svgo\lib\types.ts133256924639137871 0
 169C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133256924650101945 0
-99C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.html133260376368950440 0
+99C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.html133260373726256700 0
 131C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\caniuse-lite\dist\lib\supported.js133256924648506249 0
 118C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\chalk\source\index.js133256924622981517 0
 115C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\js-tokens\index.js133256924623238228 0
@@ -1817,7 +1817,6 @@
 118C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\mdn-data\api\index.js133256924622873350 0
 125C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\abortcontroller-polyfill\src133256924631670687 1
 126C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\@parcel\fs\lib\browser.js.map133256924632336342 0
-107C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.5334c4b9.css133260376368950440 0
 110C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\lmdb\level.js133256924640325265 0
 116C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\braces\package.json133256924622316477 0
 126C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\mdn-data\api\inheritance.json133256924631776055 0
@@ -4276,7 +4275,6 @@
 112C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\node_modules\.bin\terser.ps1133256924650101945 0
 106C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\icon.45678738.png133256925239599439 0
 106C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\icon.b1b2fa1c.png133260373725466156 0
-111C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.5334c4b9.css.map133260376369075757 0
 106C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.672d4772.js133260373725466156 0
 110C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.672d4772.js.map133260373725551136 0
 106C:\Users\JODJOJO\Desktop\JS\JS 2\complete-javascript-course-master\15-Mapty\starter\dist\index.6e43c904.js133256925249238675 0
